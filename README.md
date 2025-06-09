@@ -27,7 +27,7 @@ Using bigram counts from [Project Gutenberg](https://www.gutenberg.org), here ar
 > **with their guns fell into the hands of the National forces. 
 > In the night Hood retreated a mile or two, to another line on the hills, made some new dispositions, and awaited attack. 
 > He was seriously embarrassed by the absence of a large part of Forrest's cavalry, which should have been protecting his** 
-> flanks
+> flanks.
 > 
 > Johnson, Rossiter. (1894). Campfire and Battlefield: An Illustrated History of the Campaigns and Conflicts of the Great Civil War.
 
